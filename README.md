@@ -2,7 +2,7 @@
 - 👀 I’m interested in mastering Java, Html, Python and MySql.
 - 🌱 I’m currently learning MySql, Html and CSS.
 - 💞️ I’m looking to collaborate on application building projects.
-- 📫 How to reach me - www.linkedin.com/in/veenus-patil-464a50322
+- 📫 How to reach me - www.linkedin.com/in/veenus-patil
 - ⚡ Fun fact: I am a Freestyle Swimmer.
 
 <!---
